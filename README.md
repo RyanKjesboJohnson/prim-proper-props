@@ -11,9 +11,9 @@ This application is fully functional! But `App.jsx` is getting really crowded. I
 
 Create the new components in the following order (increasing level of difficulty):
 
-1. Header
-1. Footer
-1. Guest List
+1. Header - Done
+1. Footer - Done
+1. Guest List - Done
 1. Dinner Supplies
 1. Guest Form
 

@@ -76,7 +76,7 @@ Can be replaced by:
 
 ### Remove a guest
 
-Allow the user to remove a guest from the list by adding a `Delete` button to teach row in the table and removing them from the database.
+Allow the user to remove a guest from the list by adding a `Delete` button to each row in the table and removing them from the database.
 
 ### Create a Guest Component
 

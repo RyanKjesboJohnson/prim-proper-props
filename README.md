@@ -37,7 +37,7 @@ The application should still work the same way. Here is what `App.jsx` could ren
 
 ### Leader
 
-Create a `PartyLeader` Component so that the lines in `App.jsx`:
+Create a `PartyLeader` Component so that the lines in `App.jsx` - Done:
 
 ```JSX
 <h2>Party Leader</h2>

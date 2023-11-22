@@ -52,7 +52,7 @@ Can be replaced by:
 
 ### Silverware
 
-Create a `SilverWare` Component as a reusable Component so that the lines in `DinnerSupplies`:
+Create a `SilverWare` Component as a reusable Component so that the lines in `DinnerSupplies` - Done:
 
 ```JSX
 <div>
